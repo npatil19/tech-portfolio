@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Nisarga Patil', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
     profilePhoto: 'img/NULL',
-    url: 'https://npatil19.github.io', // Your website URL
+    url: 'https://nisargapatil.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'npatil19',
+    organizationName: 'nisargapatil',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -44,7 +44,7 @@ const siteConfig = {
     /* Colors for website */
     colors: {
         primaryColor: '#FFC0CB',
-        secondaryColor: '#72C3E7',
+        secondaryColor: '#E6E6FA',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
