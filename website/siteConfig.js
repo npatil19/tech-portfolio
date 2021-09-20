@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Nisarga Patil', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
-    profilePhoto: 'img/2d605a87cd29c9bd8590ca1adc1784e1.jpg',
+    profilePhoto: 'https://github.com/nisargapatil/tech-portfolio/blob/main/website/static/img/Nisarga%20Patil%20Resume.pdf',
     url: 'https://nisargapatil.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -43,12 +43,12 @@ const siteConfig = {
 
     /* Colors for website */
     colors: {
-        primaryColor: '#FFC0CB',
+        primaryColor: '#000000',
         secondaryColor: '#E6E6FA',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Nisarga Patil`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
